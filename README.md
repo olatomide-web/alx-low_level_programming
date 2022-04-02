@@ -1,2 +1,1 @@
-# alx-low_level_programming
-started learning C language
+My read me
