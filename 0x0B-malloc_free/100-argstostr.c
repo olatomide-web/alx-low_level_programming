@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
  * argstostr - prints args
  * @ac: takes in width of grid
