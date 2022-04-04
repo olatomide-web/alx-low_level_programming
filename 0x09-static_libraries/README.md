@@ -1,1 +1,1 @@
-THis project is all about creating libraries in C
+THis project is all about creating static libraries in c
